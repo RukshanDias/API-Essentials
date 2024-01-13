@@ -22,4 +22,4 @@ jobs:
         run: npm install -g markdown-spellcheck
 
       - name: Run spell check
-        run: mdspell "**/*.md"
+        run: mdspell "**/*.md" || exit 1
