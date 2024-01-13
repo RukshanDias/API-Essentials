@@ -18,10 +18,8 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Install mdspell
-        run: |
-          npm install -g markdown-spellcheck
-          npm list -g --depth=0
+      - name: Install markdown-spellcheck
+        run: npm install -g markdown-spellcheck
 
       - name: Run spell check
         run: |
