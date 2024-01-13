@@ -2,4 +2,4 @@
 
 ## test
 
--   hello, addingg a typo forr testing.
+-   hello, adding a typo for testing.
