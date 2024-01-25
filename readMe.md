@@ -10,6 +10,9 @@
 
 -   API url will be used as the endpoint to access the information.
 -   <img src="imgs/api_url_structure.png" width="500">
+-   2 types of parameters:
+    1. Path parameter
+    2. Query parameter
 
 #### Query Parameters
 
