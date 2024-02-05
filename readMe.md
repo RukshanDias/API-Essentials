@@ -25,4 +25,10 @@
 -   Use cases of URL parameters::
     -   <img src="imgs/url_parameter_use-cases.png" width="400">
 
+### API Request Methods
 
+1. **GET**: retrieve data
+2. **POST**: send data
+3. **PUT**: update data
+4. **DELETE**: delete data
+5. **PATCH**: partial update data
