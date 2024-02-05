@@ -32,3 +32,16 @@
 3. **PUT**: update data
 4. **DELETE**: delete data
 5. **PATCH**: partial update data
+
+### Types of API Architectures ([view](https://www.youtube.com/watch?v=4vLxWqE94l4))
+
+1. **REST**: Stateless communication over HTTP using CRUD operations.
+2. **GraphQL**: Query language for flexible data retrieval with a single endpoint.
+3. **SOAP**: Protocol for structured data exchange via XML over HTTP or SMTP.
+4. **gRPC**: High-performance RPC framework using Protocol Buffers for efficient communication.
+5. **WebSocket**: Full-duplex communication for real-time data transfer.
+6. **WebHook**: Real-time client updates over HTTP.
+
+<img src="imgs/API architectures.gif" width="400">
+
+---
